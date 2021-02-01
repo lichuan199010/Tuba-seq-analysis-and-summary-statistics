@@ -20,3 +20,6 @@ R scripts for calculation of various summary statistics.
 
 ### Identify Genotype-specific treatment responses
 Two metrics for identifying genotype-specific treatment responses
+
+### Genie database parsing and analysis
+Calculate the mutational frequency for tumor suppressor genes in oncogenic KRAS and EGFR backgrounds.
